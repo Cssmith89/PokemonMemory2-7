@@ -1,0 +1,5 @@
+.Cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fix, minmax(120px, 1fr));
+    gap: 8px;
+}
